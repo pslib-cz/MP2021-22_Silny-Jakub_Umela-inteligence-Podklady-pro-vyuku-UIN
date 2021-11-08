@@ -1,0 +1,2 @@
+# Umělá inteligence
+##Datasety
